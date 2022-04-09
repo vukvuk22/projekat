@@ -3,7 +3,7 @@ Projekat svemira.
 
 # Uputstvo
 1.Ssao se pali na x.
-2.Planeta se krece na strelice.
+2.Meteor(Planeta) se krece na strelice.
 3.Kamera se pomera na w a s d.
 
 # Implementirane oblasti
