@@ -1,0 +1,10 @@
+/home/vuk/Desktop/projekat_grafika/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vuk/Desktop/projekat_grafika/cmake-build-debug/CMakeFiles/project_base.dir
+/home/vuk/Desktop/projekat_grafika/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vuk/Desktop/projekat_grafika/cmake-build-debug/CMakeFiles/STB_IMAGE.dir
+/home/vuk/Desktop/projekat_grafika/cmake-build-debug/libs/glad/CMakeFiles/edit_cache.dir
+/home/vuk/Desktop/projekat_grafika/cmake-build-debug/libs/glad/CMakeFiles/rebuild_cache.dir
+/home/vuk/Desktop/projekat_grafika/cmake-build-debug/libs/glad/CMakeFiles/glad.dir
+/home/vuk/Desktop/projekat_grafika/cmake-build-debug/libs/imgui/CMakeFiles/rebuild_cache.dir
+/home/vuk/Desktop/projekat_grafika/cmake-build-debug/libs/imgui/CMakeFiles/edit_cache.dir
+/home/vuk/Desktop/projekat_grafika/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir
