@@ -7,8 +7,8 @@ Projekat svemira.
 3.Kamera se pomera na w a s d.
 
 # Implementirane oblasti
-1.Cubemap
-2.SSAO
+Grupa A: Cubemap
+Grupa B: SSAO
 
 # Autor
 Vuk Stefanovic 66/2019
